@@ -3,7 +3,7 @@ int main()
 {
 	int n,sum=0,i;
 	printf("\nEnter the number = ");
-	scanf("%d",&n);//3
+	scanf("%d",&n);//5
 	for(i=1;i<=n;i++)
 	{
 		sum = sum + i;

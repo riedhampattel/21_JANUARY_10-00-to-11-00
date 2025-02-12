@@ -9,10 +9,10 @@ int main()
 	scanf("%d",&n2);//60
 	int temp = n1+1;
 	int copy = n1+1;
-	for(i=1;i(2)<=10;i++)
+	for(i=1;i<=10;i++)
 	{
 		temp = copy;
-		for(j=1;j(6)<=(n2-n1)/10;j++)
+		for(j=1;j<=(n2-n1)/10;j++)
 		{
 			if(j!=1)
 			{
