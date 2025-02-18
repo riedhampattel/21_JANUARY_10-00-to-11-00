@@ -3,7 +3,7 @@ int main()
 {
 	int term,n1=0,n2=1,n3,i;
 	printf("\nEnter the terms = ");
-	scanf("%d",&term);
+	scanf("%d",&term);//5
 	printf("\n%d %d ",n1,n2);
 	for(i=1;i<=term-2;i++)
 	{
