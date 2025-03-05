@@ -10,6 +10,8 @@ int main()
 	printf("\nOriginal value in str1 = %s",str1);
 	printf("\nOriginal value in str2 = %s",str2);
 	concat(str1,str2);
+	printf("\nValue of str1 = %s",str1);
+	printf("\nValue of str2 = %s",str2);
 	return 0;
 }
 void concat(char ch1[],char ch2[])
@@ -25,6 +27,4 @@ void concat(char ch1[],char ch2[])
 		count++;
 	}
 	ch1[count]='\0';
-	printf("\nValue of str1 = %s",ch1);
-	printf("\nValue of str2 = %s",ch2);
 }
