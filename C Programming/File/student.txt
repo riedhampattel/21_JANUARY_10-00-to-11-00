@@ -1,0 +1,6 @@
+101	Rohan	98
+102	Rakesh	56
+103	Dhyan	32
+101	Rohan	98
+102	Rakesh	56
+103	Dhyan	32

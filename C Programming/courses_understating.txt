@@ -1,0 +1,167 @@
+IT Career path : 
+-------------------------
+Duration : 1.5 years 
+college going 
+12th pass - college specially for IT - COM student 
+no placement 
+
+content : C, C++ , html , css , database ,ml 
+java , python - 1 language framework 
+
+mobile application : flutter or android 
+react js (frontend technology) 
+
+################################################
+career in mobile app development : 5-6 month 
+------------------------------------
+skill / content : SE (c, c++ , html , css , database) 
+		  Dart 
+		  Flutter  (Android + IOS) 
+		  
+placement services available 
+expectation : 2.5 to 5lk
+
+any graduate candidate
+
+################################################
+Career in software testing : 5-6 month 
+
+placement services available
+
+expectation : 2.5 to 5lk 
+
+communication skills 
+
+testing skills  : desktop app , software testing , mobile app testing , api testing 
+		manual testing and automation testing 
+		
+any background candidate 
+any graduate candidate
+
+################################################	
+Full stack developer : 9 months to 12 months 
+
+Any graduate candidate 
+
+skills : frontend + backend 
+		(html		 (se + python / java / php / .net) 
+		  css 
+		  js 
+		  react) 
+		  
+salary expectation : 3lk - 5lakh 
+################################################
+career in backend developer : 5-6mon 
+
+any graduate candidate
+
+salary expectation : 2.5 - 5lakh 
+
+skills : SE 
+		 python  / php / java / .net 
+
+################################################
+career in frontend developer : 5-6 month 
+
+any graduate candidate 
+
+salary expectation : 2.5 - 5lakh 
+
+skills : Website designing  (html, css, javascript, bootstrap) 
+		 Frontend development (React js or angular js)
+
+################################################
+
+career in mern stack development : 9mon - 12mon 
+
+any graduate candidate 
+
+most recommed for IT students 
+
+skills : SE , database , mongo db , node js , express js 
+	
+salary expectation : 3 - 5lakh 
+
+MERN : M - Mongo , E - Express , R : React , N : Node
+
+################################################
+career in datascience : 1.5years 
+
+any graduate candidate 
+
+skills : core python , statistics , business excel , ml , dl 
+
+salary expectation : 3 - 7lakh 
+################################################
+
+career in Data Analytics : 6-7mon 
+
+any graduate candidate - mostly coming from bcom background 
+
+skills required : statistics, excel  , data visualization 
+
+salary expectation : 2.5 - 5lakh 
+################################################
+
+12th pass : CDP : Career in development program (software) 
+
+2years + 1 year intership
+
+attach with degree 
+
+################################################
+
+career in website designing and development : 5-6mon 
+
+graphic : figma + xd 
+
+website designing 
+
+any 12th pass candidate 
+
+salary expectation : 1.5lakh to 3 lakh 
+
+################################################
+
+all sort term courses : 3.5 month 
+
+graphic designing 
+ui / ux designing 
+web site designing 
+digital marketing 
+
+salary expectation : 1.5lakh to 3 lakh 
+
+################################################
+career in multimedia and designing  : 5-6month 
+
+Graphic designing 
+ui and ux 
+after effects 
+video editing 
+
+Any cadidate 10th pass - 12th pass 
+
+salary expectation : 1.5 - 3 lakh 
+################################################
+
+Diploma in dm or career in digital marketing : 5-6month 
+
+Any cadidate 12th pass 
+
+salary expectation : 1.5 - 3lakh 
+
+################################################
+
+CDP : designing multimedia 
+
+2years + 1 year intership
+
+################################################
+CDP : in hardware and networking  6-7 mon 
+
+skills : A+ , N+ , CCNA 
+
+CDP : in networking security : 1year 
+
+skills : A+, N+ , CCNA , ECH , CLOUD computing 
