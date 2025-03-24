@@ -9,7 +9,6 @@ class Student
 };
 int main()
 {
-    int a,b,c;
     Student s1,s2,s3;
     cout<<"Value of a = "<<s1.a<<endl;
     cout<<"Value of s = "<<s1.s<<endl;
