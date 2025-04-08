@@ -39,3 +39,39 @@ select * from employees order by 5;
 select first_name,last_name,salary as income from employees order by income;
 
 select concat(first_name,' ',last_name) as full_name from employees;
+
+select * from employees where first_name like '%ee%';
+
+select * from employees where first_name like '%e%e%';
+
+select * from employees where first_name like '%e_';
+
+select * from employees where hire_date like '%-j_n-%';
+
+select * from employees where hire_date like '%-ju_-%';
+
+select min(salary) from employees;
+
+select max(salary) from employees;
+
+select sum(salary) from employees;
+
+select avg(salary) from employees;
+
+select count(COMISSION_PCT) from employees;
+
+select count(*) from employees;
+
+select first_name,last_name,salary from employees where salary = (select min(salary) from employees);
+
+select first_name,last_name,salary from employees where salary = (select max(salary) from employees);
+
+select department_id,min(salary) from employees group by department_id;
+
+select * from employees;
+
+select department_id,min(salary) from employees group by DEPARTMENT_ID having min(salary)>5000 order by 2;
+
+select * from employees order by salary desc limit 5;
+
+select * from employees order by salary limit 10 offset 5;
