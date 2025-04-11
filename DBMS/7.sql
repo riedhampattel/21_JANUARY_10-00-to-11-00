@@ -61,4 +61,31 @@ drop trigger recycle;
 
 create table Demo
 (
-id 
+id int not null unique,
+name varchar(25) not null,
+standard int not null
+);
+
+create table copy_data
+(
+id int not null unique,
+name varchar(25) not null,
+copied_time time
+);
+
+create trigger copy
+after insert on 18_january.demo
+for each row
+insert into copy_data values(new.id,new.name,curtime());
+
+select * from demo;
+
+select * from copy_data;
+
+insert into demo values(101,'asd',5);
+
+insert into demo values(102,'qwe',12);
+
+select * from demo;
+
+select * from copy_data;
