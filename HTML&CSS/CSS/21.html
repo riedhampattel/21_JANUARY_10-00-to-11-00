@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+</head>
+<style>
+    div
+    {
+        display: flex;
+        background-color: red;
+        height: 250px;
+        width: 250px;
+        animation: move 10s infinite;
+    }
+    @keyframes move
+    {
+        0%,25%
+        {
+            background-color: yellow;
+            margin-left: 0px;
+            margin-top: 0px;
+            border-radius: 0%;
+        }
+        26%,50%
+        {
+            background-color: green;
+            margin-left: 1100px;
+            border-radius: 20%;
+        }
+        51%,75%
+        {
+            background-color: yellowgreen;
+            margin-left: 1100px;
+            margin-top: 350px;
+            border-radius: 40%;
+        }
+        76%,100%
+        {
+            background-color: goldenrod;
+            margin-left: 0px;
+            margin-top: 350px;
+            border-radius: 60%;
+        }
+    }
+</style>
+<body>
+    <div></div>    
+</body>
+</html>
