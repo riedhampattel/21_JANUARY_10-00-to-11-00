@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    height: 70px;
+    background-color: lightblue;
+}
+header img
+{
+    width: 300px;
+    height: 40px;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+header nav a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+    margin-right: 2.5rem;
+}
+header nav
+{
+    margin-top: 1.5rem;
+    margin-left: 5rem;
+}
+section
+{
+    background-image: url("https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg?ga=GA1.1.686553793.1747107862&semt=ais_hybrid&w=740");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 530px;
+}
+section p
+{
+    color: white;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    position: absolute;
+    margin-top: 14rem;
+    margin-left: 23rem;
+    text-align: center;
+    line-height: 1.5;
+}
