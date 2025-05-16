@@ -155,3 +155,59 @@ nav a:hover
     border: 2px solid rgb(3, 241, 241);
     transition: 0.5s ease;
 }
+.about-title
+{
+    font-size: 30px;
+    border-bottom: 2px solid brown;
+}
+.about-content
+{
+    font-size: 20px;
+    margin: 2rem 5rem;
+}
+.about-social-icons a i
+{
+    font-size: 35px;
+    margin-right: 2.5rem;
+    margin-top: 1rem;
+}
+.about-social-icons a i:hover
+{
+    transform: scale(1.2);
+    transition: 0.5 ease;
+}
+.contact-container
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 5rem;
+}
+.contact-form
+{
+    margin-top: 2rem;
+}
+.contact-form table tr td
+{
+    padding: 1rem;
+}
+.contact-form table tr td input
+{
+    background-color: rgb(240, 248, 255);
+    border: 2px solid brown;
+    border-radius: 20px;
+    padding: 0.6rem 2rem;
+}
+.contact-form table
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.contact-form table tr td button
+{
+    font-size: 20px;
+    font-weight: 800;
+    /* background-color: aliceblue; */
+    padding: 0.5rem 1rem;
+    border: 2px solid brown;
+    border-radius: 30px;
+}
