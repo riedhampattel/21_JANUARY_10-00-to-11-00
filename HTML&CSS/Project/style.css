@@ -211,3 +211,124 @@ nav a:hover
     border: 2px solid brown;
     border-radius: 30px;
 }
+@media (max-width : 750px)
+{
+*
+{
+    background-color: beige;
+    color: brown;
+}
+header
+{
+    display: block;
+    margin: 0rem 0rem 0rem 0rem;
+}
+#logo
+{
+    display: none;
+}
+nav
+{
+    margin-left: 0.5rem;
+    margin-top: 3.5rem;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;  
+}
+nav a
+{
+    margin-right: 1rem;
+}
+.main-contet
+{
+    margin-top: 25rem;
+    margin-left: 0rem;
+}
+.main-contet h1
+{
+    text-align: center;
+    font-size: 30px;
+}
+.main-contet h3
+{
+    text-align: center;
+    font-size: 23px;
+}
+.description
+{
+    margin-left: 0.3rem;
+    text-align: center;
+    width: 380px;
+}
+.btn
+{
+    margin-left: 6.5rem;
+    margin-top: 2rem;
+}
+.social-icons
+{
+    margin-left: 4rem;
+    margin-top: 3rem;
+}
+.main-image
+{
+    position: absolute;
+    top: 6rem;
+    left: 1.2rem;
+}
+.main-image img
+{
+    background: none;
+    filter: drop-shadow(0px 0px 10px brown);
+    height: 350px;
+}
+.product-container
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 3rem 0rem 3rem 3rem;
+}
+.about-title
+{
+    margin-top: 2rem;
+}
+.about-content
+{
+    font-size: 20px;
+    margin: 2rem 0.5rem;
+}
+.contact-container
+{
+    display: block;
+    margin: 0rem 0rem;
+}
+.contact-form table tr td
+{
+    padding: 0.6rem;
+}
+.contact-form table tr td input
+{
+    padding: 0.2rem 1rem;
+}
+.contact-form table
+{
+    font-size: 11px;
+}
+.contact-form table tr td button
+{
+    font-size: 15px;
+    font-weight: 800;
+    /* background-color: aliceblue; */
+    padding: 0.2rem 0.8rem;
+}
+.map
+{
+    margin-top: 2rem;
+    text-align: center;
+}
+iframe
+{
+    width: 300px;
+    height: 300px;
+}
+}
